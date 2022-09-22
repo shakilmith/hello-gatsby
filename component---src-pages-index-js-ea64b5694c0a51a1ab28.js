@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhello_gatsby_app=self.webpackChunkhello_gatsby_app||[]).push([[678],{6558:function(e,l,t){t.r(l);var n=t(7294);l.default=function(){return n.createElement("div",null,n.createElement("h2",null,"Hello Gatsby... Hosted in GitHub."))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-ea64b5694c0a51a1ab28.js.map
